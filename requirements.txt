@@ -1,0 +1,8 @@
+torch
+numpy
+matplotlib
+scipy
+scikit-image
+pillow
+ipykernel
+jupyter

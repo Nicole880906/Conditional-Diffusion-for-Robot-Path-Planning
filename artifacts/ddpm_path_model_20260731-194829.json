@@ -1,0 +1,10 @@
+{
+  "checkpoint_path": "artifacts/ddpm_path_model_20260731-194829.pt",
+  "saved_at": "20260731-194829",
+  "img_size": 64,
+  "n_steps": 100,
+  "n_epochs": 200,
+  "path_length": 256,
+  "lambda_path": 1.0,
+  "lambda_connect": 0.5
+}
